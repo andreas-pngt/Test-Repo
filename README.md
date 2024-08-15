@@ -10,5 +10,3 @@ Some more text.
 
 ## Local Development
 1. Open html in your browser.
-
-something
